@@ -17,4 +17,4 @@ def move(arr, i, char='X')
   arr
 end
 
-move([0], 0)
+puts move([0], 0)
