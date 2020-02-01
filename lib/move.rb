@@ -14,4 +14,5 @@ end
 
 def move(arr, i, char='X')
   arr[i] = char
+  arr
 end
